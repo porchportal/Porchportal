@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![logo](https://github.com/porchportal/Porchportal/blob/main/IMG_4139.jpeg)
+![logo]([https://github.com/porchportal/Porchportal/blob/main/IMG_4139.jpeg](https://github.com/porchportal/Porchportal/blob/32fe6778de16a5e2cb8c614ef1429450f98466e5/The_AbsoluteSolver.webp))
 <h1 align="center">Hi 👋, I'm Porch</h1>
 <small align="center"> I have a profound passion for AI and machine learning, particularly fascinated by systems that can learn and evolve on their own. My interest is fueled by a love for science fiction movies like ‘Transformers’ and ‘Terminator’, where AI plays a pivotal role. This fascination has led me to delve into programming, with the dream of creating advanced AI systems in the future. My journey is not just about understanding existing technology but also about pushing the boundaries of what is possible in the realm of artificial intelligence.</small>
 <h3 align="left">Connect with me:</h3>
