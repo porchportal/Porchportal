@@ -2,26 +2,23 @@
   👋 Hi there! Thanks for visiting my profile.
   This README is visible on my GitHub profile page.
 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/porchportal/Porchportal/main/The_AbsoluteSolver.webp" 
+       alt="Porch Portal Banner" 
+       width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/porchportal/Porchportal/main/The_AbsoluteSolver.webp" alt="Porch Portal Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/porchportal/Porchportal/main/cyn_silly.webp"
+       alt="Porch Portal"
+       width="200"
+       style="border-radius: 50%;"/>
 </p>
-  <!-- Right side circular profile image -->
-  <div>
-    <img src="https://raw.githubusercontent.com/porchportal/Porchportal/main/cyn_silly.webp"
-         alt="Porch Portal"
-         style="width: 200px; height: 200px; border-radius: 50%; border: 4px solid white; box-shadow: 0 0 12px rgba(0,0,0,0.4);"/>
-  </div>
-
-</div>
-
 
 <h1 align="center">Hello, I'm <strong>Porch</strong> 👋</h1>
-
 <p align="center">
   <em>AI Researcher | Machine Learning Developer | Innovator in Intelligent Systems</em>
 </p>
-
 ---
 
 ### 🧠 About Me
