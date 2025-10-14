@@ -3,34 +3,9 @@
   This README is visible on my GitHub profile page.
 -->
 
-<div style="
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background-image: url('https://raw.githubusercontent.com/porchportal/Porchportal/main/The_AbsoluteSolver.webp');
-  background-size: cover;
-  background-position: center;
-  border-radius: 12px;
-  padding: 40px;
-  margin-bottom: 40px;
-">
 <p align="center">
   <img src="https://raw.githubusercontent.com/porchportal/Porchportal/main/The_AbsoluteSolver.webp" alt="Porch Portal Banner" width="100%"/>
 </p>
-
-  <!-- Left side text -->
-  <div style="max-width: 60%; color: white;">
-    <h1 style="margin:0; font-size: 2.5em;">Porch Portal</h1>
-    <p style="font-size: 1.2em; line-height: 1.5em;">
-      AI Researcher & Machine Learning Developer<br>
-      Focused on building intelligent systems capable of learning, reasoning, and evolving autonomously.<br>
-      Passionate about deep learning, computer vision, and autonomous intelligence.
-    </p>
-    <p>
-      🔗 <a href="https://porchportal.github.io/demo-website/" style="color: #FFD700; text-decoration: underline;">Explore My Live Demo</a>
-    </p>
-  </div>
-
   <!-- Right side circular profile image -->
   <div>
     <img src="https://raw.githubusercontent.com/porchportal/Porchportal/main/cyn_silly.webp"
