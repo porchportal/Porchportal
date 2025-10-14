@@ -14,6 +14,9 @@
   padding: 40px;
   margin-bottom: 40px;
 ">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/porchportal/Porchportal/main/The_AbsoluteSolver.webp" alt="Porch Portal Banner" width="100%"/>
+</p>
 
   <!-- Left side text -->
   <div style="max-width: 60%; color: white;">
